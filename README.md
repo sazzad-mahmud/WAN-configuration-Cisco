@@ -1,5 +1,5 @@
 # WAN-configuration-Cisco
-#I've done this in packet tracer version 3.7.1
+#packet tracer --version 3.7.1
 
 Scenario: 
 
